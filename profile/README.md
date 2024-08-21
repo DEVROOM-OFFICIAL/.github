@@ -2,11 +2,13 @@
 <img width="100%" height="auto" src="https://github.com/user-attachments/assets/06e7882b-6b54-40ba-8466-1994943ab772"> 
 <br/> 
 <br/>  
-
-<img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">  
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">  
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">  
 <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white">  
+ <br/>  
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">  
+<img src="https://img.shields.io/badge/k3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black">  
+<img src="https://img.shields.io/badge/helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">  
 <br/>  
 
 <!-- ![version](https://img.shields.io/badge/version-1.0-white) -->
