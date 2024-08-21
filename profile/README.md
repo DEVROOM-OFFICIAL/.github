@@ -13,10 +13,10 @@
 <!-- ![version](https://img.shields.io/badge/version-1.0-white) -->
 <!-- [![GitHub commit](https://img.shields.io/github/last-commit/Yanghyeondong/DEV-ROOM.svg)](https://github.com/Yanghyeondong/DEV-ROOM/pulse) -->
 <!-- [![CodeFactor](https://www.codefactor.io/repository/github/yanghyeondong/DEV-ROOM/badge)](https://www.codefactor.io/repository/github/yanghyeondong/DEV-ROOM) -->
-
+<br/>  
 </div>
 
-## 📌 DevRoom: 교육용 개인 개발 컨테이너 관리 시스템
+# 📌 DevRoom: 교육용 개인 개발 컨테이너 관리 시스템
 
 ### 📚 [DevRoom 프로젝트 전체 소개](https://github.com/DEVROOM-OFFICIAL/DEVROOM-k8s)
 ### - 📙 [DevRoom 프론트엔드 Repo](https://github.com/DEVROOM-OFFICIAL/DEVROOM-frontend)
