@@ -5,7 +5,6 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">  
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">  
 <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white">  
- <br/>  
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">  
 <img src="https://img.shields.io/badge/k3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black">  
 <img src="https://img.shields.io/badge/helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">  
@@ -19,11 +18,14 @@
 
 ## 📌 DevRoom: 교육용 개인 개발 컨테이너 관리 시스템
 
-### 📁 [팀 다큐멘테이션 (Notion)](https://www.notion.so/5e9c20a115e04ca288d6da1729a51be3?v=0f570a3727a1490b83173e6b30a0f1a3)
+### 📚 [DevRoom 프로젝트 전체 소개](https://github.com/DEVROOM-OFFICIAL/DEVROOM-k8s)
+### - 📙 [DevRoom 프론트엔드 Repo](https://github.com/DEVROOM-OFFICIAL/DEVROOM-frontend)
+### - 📗 [DevRoom 백엔드 Repo](https://github.com/DEVROOM-OFFICIAL/DEVROOM-backend)
+### - 📘 [DevRoom K8s 운용 시스템 Repo](https://github.com/DEVROOM-OFFICIAL/DEVROOM-k8s)
 
 <br>
 
-# 🎯 1. 프로젝트 소개
+# 🎯 1. DevRoom 소개
 <br>
 
 ## 1.1. Overview
